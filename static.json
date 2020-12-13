@@ -1,5 +1,5 @@
 {
-  "remove_trailing_slashes_from_directories": true,
+  "https_only": true,
   "headers": {
     "/*": {
       "X-Author": "sergeypetrov5",
