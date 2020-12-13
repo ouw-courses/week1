@@ -12,5 +12,15 @@
   "routes": {
     "/login/*": "login.txt",
     "/sample/*": "sample.txt"
+  },
+  "redirects": {
+    "/login": {
+      "url": "/login/",
+      "status": 301
+    },
+    "/sample": {
+      "url": "/sample/",
+      "status": 301
+    }
   }
 }
