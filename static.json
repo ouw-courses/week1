@@ -9,6 +9,7 @@
     }
   },
   "routes": {
-    "/login/*": "login.txt"
+    "/login/*": "login.txt",
+    "/sample/*": "sample.txt"
   }
 }
