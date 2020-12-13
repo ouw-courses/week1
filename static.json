@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "sergeypetrov5",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
